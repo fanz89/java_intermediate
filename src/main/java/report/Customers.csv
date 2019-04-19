@@ -1,0 +1,5 @@
+CustomerID;CompanyName;FirstName;LastName;BillingAddress;City;StateOrProvince;ZIPCode;Email;CompanyWebsite;PhoneNumber;FaxNumber;ShipAddress;ShipCity;ShipStateOrProvince;ShipZIPCode;ShipPhoneNumber
+1;A. Datum Corporation;Terry;Adams;1234 Brown Street;Furntree;WA;680526789;;http://www.adatum.com/;6065550134;4255550144;1234 Brown Street;Furntree Gulley;WA;680526789;4255550134
+2;Contoso, Ltd;Jo;Berry;4567 Green Road;Clovelly;CA;863924444;;http://www.contoso.com/;4255550135;4255550145;4567 Green Road;Clovelly;CA;863924444;4255550135
+3;Trey Research;Kim;Akers;5678 Yellow Place;Beecroft;MO;564781234;;http://www.treyresearch.net/;4255550136;4255550146;5678 Yellow Place;Beecroft;MO;564781234;4255550136
+4;Litware, Inc;Robin;Counts;2345 Brick Road;Irvine;AZ;234893456;;http://www.litwareinc.com;8065550137;8065550147;2345 Brick Road;Irvine;AZ;234893456;8065550137

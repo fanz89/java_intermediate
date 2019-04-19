@@ -1,0 +1,6 @@
+ShippingMethodID;ShippingMethod
+1;Federal Express
+2;UPS Ground
+3;UPS Second Day
+4;US Mail Overnight
+5;US Certified Mail

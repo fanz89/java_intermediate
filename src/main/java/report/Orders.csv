@@ -1,0 +1,7 @@
+OrderID;CustomerID;EmployeeID;OrderDate;PurchaseOrderNumber;ShipDate;ShippingMethodID;FreightCharge;Taxes;PaymentReceived;Comment
+1;2;1;23/04/2005;10;29/04/2005;1;64;5;0;
+2;1;1;23/03/2005;11;29/03/2005;1;;5;0;
+3;3;3;21/01/2005;30;28/06/2005;5;;5;0;
+4;2;2;05/05/2005;26;19/09/2005;2;;5;0;
+5;4;5;02/05/2005;32;27/09/2005;2;;5;0;
+13;1;1;29/02/2008;1;;2;50;5;0;
